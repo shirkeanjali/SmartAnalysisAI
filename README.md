@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📊 DataSense 
+# SmartAnalysisAI
 
 ### *Ask Data. Get Answers. No Code.*
 
@@ -9,7 +9,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red.svg)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**DataSense** is an AI-powered natural-language data analysis assistant that turns plain questions into visual insights.
+**SmartAnalysisAI** is an AI-powered natural-language data analysis assistant that turns plain questions into visual insights.
 
 </div>
 
@@ -19,7 +19,7 @@
 
 DataSense is a comprehensive Streamlit-based data analysis platform that empowers users to interact with their data using Natural Language. Upload CSV or Excel files and leverage AI to perform exploratory data analysis, ask questions in plain English, and generate visualizations—all without writing a single line of code.
 
-### Why DataSense?
+### Why SmartAnalysisAI?
 
 - 🤖 **AI-Powered Analysis**: Leverage GPT-4, Gemini, or Claude to analyze your data
 - 💬 **Natural Language Queries**: Ask questions in plain English, no SQL or Python required
